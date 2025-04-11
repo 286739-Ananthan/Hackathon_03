@@ -15,9 +15,7 @@ A Python-based Command Line Interface (CLI) application to manage employee recor
 
 ---
 
-## 🧱 Folder Structure
-
-employee_mgmt/ │ ├── main.py ├── employee.py ├── employee_manager.py ├── storage.py ├── employees.json ├── tests/ │ ├── init.py │ ├── test_employee.py │ ├── test_employee_manager.py │ └── test_storage.py
+<pre> ## 🧱 Folder Structure ``` employee_mgmt/ │ ├── main.py ├── employee.py ├── employee_manager.py ├── storage.py ├── employees.json ├── tests/ │ ├── __init__.py │ ├── test_employee.py │ ├── test_employee_manager.py │ └── test_storage.py ``` </pre>
 
 ## Screenshot
 
