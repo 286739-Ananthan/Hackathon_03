@@ -17,18 +17,7 @@ A Python-based Command Line Interface (CLI) application to manage employee recor
 
 ## 🧱 Folder Structure
 
-employee_mgmt/ 
-│ 
-├── main.py 
-├── employee.py 
-├── employee_manager.py 
-├── storage.py 
-├── employees.json 
-├── tests/ 
-│ ├── __init__.py 
-│ ├── test_employee.py 
-│ ├── test_employee_manager.py 
-│ └── test_storage.py 
+employee_mgmt/ │ ├── main.py # CLI entry point ├── employee.py # Employee class (UUID, salary logic) ├── employee_manager.py # Business logic: add, find, delete ├── storage.py # File persistence (Pickle/JSON) ├── employees.json # Data storage file │ ├── tests/ # Unit tests │ ├── init.py │ ├── test_employee.py │ ├── test_employee_manager.py │ └── test_storage.py
 
 ## Screenshot
 
