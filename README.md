@@ -26,7 +26,6 @@ employee_mgmt/
 ├── storage.py 
 ├── employees.json 
 ├── tests/ 
-│   ├── __init__.py 
 │   ├── test_employee.py 
 │   ├── test_employee_manager.py 
 │   └── test_storage.py  
